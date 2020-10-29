@@ -9,7 +9,7 @@
       <p><b>地址：宁波市鄞州区钱湖南路1号</b></p>
     </td>
     <td width="25%">
-      <img src="/1599437233370.jpeg" width="100%">      可爱的头像
+      <img src="/1599437233370.jpeg" width="100%">
     </td>
   </tr>
 </table>
