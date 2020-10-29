@@ -16,4 +16,4 @@
 
 
 ### 信号与系统实践环节
-[实验三]（https://github.com/xcx422/school-work/blob/main/实验三.py）
+[实验三](https://github.com/xcx422/school-work/blob/main/实验三.py)
